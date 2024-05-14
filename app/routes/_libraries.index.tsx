@@ -20,6 +20,7 @@ import { libraries } from '~/libraries'
 import { SearchBox } from '@orama/searchbox'
 import { searchBoxParams } from '~/components/Orama'
 import logoColor from '~/images/logo-color-600w.png'
+import bytesImage from '~/images/bytes.svg'
 
 export const textColors = [
   `text-rose-500`,
